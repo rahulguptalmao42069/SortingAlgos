@@ -1,1 +1,1 @@
-# funnyCode
+# Sorting Algorithms
